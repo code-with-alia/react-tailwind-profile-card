@@ -1,16 +1,58 @@
-# React + Vite
+# React + Tailwind CSS Profile Card
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal profile card built with React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This project showcases my profile as a Web UI Developer. It features a clean design, profile image, skills, social media links, an email contact button, and a link to my GitHub projects.
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive profile card design
+- Profile image and personal introduction
+- Skills badges
+- GitHub profile link
+- LinkedIn profile link
+- Email contact button
+- View My Projects button
+- Smooth hover animations
+- Gradient background
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- JavaScript
+- Tailwind CSS
+
+## Installation and Setup
+
+1. Clone the repository:
+
+   `git clone YOUR_REPOSITORY_URL`
+
+2. Navigate to the project folder:
+
+   `cd react`
+
+3. Install dependencies:
+
+   `npm install`
+
+4. Start the development server:
+
+   `npm run dev`
+
+5. Open the local URL displayed in your terminal.
+
+## Author
+
+**Alia Liaqat**
+
+GitHub: https://github.com/code-with-alia
+
+LinkedIn: https://www.linkedin.com/in/alia-liaqat-7a02a6370/
+
+## Project Purpose
+
+Created as a practical project to improve my React and Tailwind CSS skills.
